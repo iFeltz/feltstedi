@@ -67,4 +67,3 @@ $(function() {
 baguetteBox.run('.tz-gallery', {
 	animation: 'fadeIn'
 });
-
